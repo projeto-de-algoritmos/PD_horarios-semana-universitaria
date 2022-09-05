@@ -9,7 +9,7 @@
 | 19/0012200  | Douglas da Silva Monteles |
 | 17/0016838  |  Lucas Lopes Xavier |
 
-[Apresentação]()
+[Apresentação](https://github.com/projeto-de-algoritmos/PD_horarios-semana-universitaria/blob/main/apresentacao.mp4)
 
 ## Sobre 
 Neste projeto do módulo de Programação Dinâmica, criamos um algoritmo baseado na ideia de Memorization em conjunto com técnicas de Programação Dinâmica que, a partir de um conjunto de dados compostos pelo: Nome no curso/evento, Grau de motivação do em realizar este curso/evento e a duração do evento, aplicamos um algoritmo que recebe o tempo disponível que a pessoa tem para realizar os cursos durante a semana universitária, e devolve uma lista com a melhor opção de curso(s) possíveis que o estudante deve fazer para aproveitar ao máximo o tempo.
