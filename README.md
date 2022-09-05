@@ -1,46 +1,56 @@
-# Getting Started with Create React App
+# Horários na Semana Universitária
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Número da Lista**: undefined<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
-## Available Scripts
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| 19/0012200  | Douglas da Silva Monteles |
+| 17/0016838  |  Lucas Lopes Xavier |
 
-In the project directory, you can run:
+[Apresentação]()
 
-### `npm start`
+## Sobre 
+Neste projeto do módulo de Programação Dinâmica, criamos um algoritmo baseado na ideia de Memorization em conjunto com técnicas de Programação Dinâmica que, a partir de um conjunto de dados compostos pelo: Nome no curso/evento, Grau de motivação do em realizar este curso/evento e a duração do evento, aplicamos um algoritmo que recebe o tempo disponível que a pessoa tem para realizar os cursos durante a semana universitária, e devolve uma lista com a melhor opção de curso(s) possíveis que o estudante deve fazer para aproveitar ao máximo o tempo.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Screenshots
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Figura 1: Tela Inicial
 
-### `npm test`
+![foto1](https://user-images.githubusercontent.com/54580766/188341704-bc354116-1ee8-456a-8686-537cef5732f7.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Figura 2: Tela com cursos cadastrados
 
-### `npm run build`
+![foto2](https://user-images.githubusercontent.com/54580766/188341875-6d109487-b52d-401f-92e9-c96af293e78d.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Figura 3: Tempo que o estudante tem para fazer os cursos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![foto3](https://user-images.githubusercontent.com/54580766/188341902-ed1edc8a-2b62-481b-a828-bc625139b0f5.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Figura 4: Resultado
 
-### `npm run eject`
+![foto3](https://user-images.githubusercontent.com/54580766/188341927-9e7dc26e-bdd5-41d5-a9cd-bcd60591d2a8.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Instalação 
+**Linguagem**: Javascript (Typescript)<br>
+**Framework**: ReactJS<br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Pré-requisitos
+- Possuir um navegador (De preferencia utilizar o Google Chrome ou derivado)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Baixando e executando o projeto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  ```
+    git clone https://github.com/projeto-de-algoritmos/PD_horarios-semana-universitaria.git
 
-## Learn More
+    cd PD_horarios-semana-universitaria
+  ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Abrar a arquivo `index.html` no seu navegador (dois cliques no arquivo)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Uso 
+Na página inicial, cadastre os cursos/eventos e siga as instruções.
+
+## Outros 
+Utilize o navegador Google Chrome
